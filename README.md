@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @unavoidable0100
-- 👀 I am interested in the technology of the future and how can we take advantage of it of all aspects.
+- 👀 I am interested in the technology of the future and how we can take advantage of it of all aspects.
 - 🌱 I’m currently learning AI, Flutter and a little bit of anything that comes on my way.
 - 📫 How to reach me ..
 
