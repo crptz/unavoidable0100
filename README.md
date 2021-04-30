@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @unavoidable0100
 - 👀 I am interested in the technology of the future and how we can take advantage of it of all aspects.
 - 🌱 I’m currently learning A.I. with Prolog, Reverse Engineering and a little bit of anything that comes on my way.
-- 🔗 This is a poor website -> ipfs://bafybeif7jzx2h3c37yb5xso754o4kxwi5tmuaurbfcbv6pad64sx3ztuya/ *|* I junt wanted you to know that there is a new distributed system called IPFS for storing files and it's decentralized !!
+- 🔗 This is a poor website -> ipfs://bafybeif7jzx2h3c37yb5xso754o4kxwi5tmuaurbfcbv6pad64sx3ztuya/ *|* I junt wanted you to know that there is a new distributed system called ***IPFS*** for storing files and it's decentralized !!
 
 ![tetrahedron](https://github-readme-stats.vercel.app/api?username=unavoidable0100&show_icons=true&theme=dark)
 
