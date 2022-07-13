@@ -6,6 +6,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unavoidable0100&layout=compact&theme=dark)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Tetrahedron.png" alt="TryHackMe">
+
 <!---
 unavoidable0100/unavoidable0100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
